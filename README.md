@@ -20,6 +20,42 @@ Languages: C++, Python
 Libraries & Frameworks: OpenCV, TensorFlow, PyTorch, ROS (Robot Operating System)
 Areas of Interest: Autonomous Vehicles, Robotics, Machine Learning, Computer Vision, Agentic AI
 Tools: Git, GitHub, Docker, VS Code
+
+## 🛠️ Tech Stack & Tools
+
+### Languages
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Machine Learning & AI
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+
+### Computer Vision & Robotics
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
+
+### Python Libraries & Tools
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+
+### Development Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+### Areas of Expertise
+- 🚗 **Autonomous Vehicles & ADAS** (Lane Keep Assist, Adaptive Cruise Control, Emergency Braking)
+- 🤖 **Robotics & Control Systems**
+- 🧠 **Machine Learning** (NLP, Supervised Learning, Agentic AI)
+- 👁️ **Computer Vision** (Object Detection, Traffic Sign Recognition)
+- 🎮 **Game Development** (Hobbyist projects)
+
+
 - 📫 How to reach me: @adityapatil205 at instagram and adityaanantpatil at linkedin (www.linkedin.com/in/adityanantpatil)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: im game dev enthusiast and i have actually made some projects but couldnt build better as i had hardware limitations 
