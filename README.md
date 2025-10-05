@@ -57,13 +57,6 @@ Tools: Git, GitHub, VS Code
 - 👁️ **Computer Vision** (Object Detection, Traffic Sign Recognition)
 - 🔌 **Embedded Systems** (Microcontroller programming, Sensor integration)
 - 🎮 **Game Development** (Hobbyist projects)
-### Areas of Expertise
-- 🚗 **Autonomous Vehicles & ADAS** (Lane Keep Assist, Adaptive Cruise Control, Emergency Braking)
-- 🤖 **Robotics & Control Systems**
-- 🧠 **Machine Learning** (NLP, Supervised Learning, Agentic AI)
-- 👁️ **Computer Vision** (Object Detection, Traffic Sign Recognition)
-- 🎮 **Game Development** (Hobbyist projects)
-
 
 - 📫 How to reach me: @adityapatil205 at instagram and adityaanantpatil at linkedin (www.linkedin.com/in/adityanantpatil)
 - 😄 Pronouns: He/Him
