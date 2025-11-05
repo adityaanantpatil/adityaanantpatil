@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-Here are some ideas to get you started:
-I'm a passionate developer and engineer with a love for autonomous systems and competitive engineering. Welcome to my corner of GitHub!
+Welcome to my corner of GitHub!
 
 👨‍💻 About Me
 🔭 I’m currently working on an Autonomous Vehicle for the BAJA SAE competition. My focus is on developing advanced driver-assistance systems (ADAS) including:
