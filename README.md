@@ -58,6 +58,7 @@ Tools: Git, GitHub, VS Code
 - 🎮 **Game Development** (Hobbyist projects)
 
 - 📫 How to reach me: @adityapatil205 at instagram and adityaanantpatil at linkedin (www.linkedin.com/in/adityanantpatil)
+- Hugging face : https://huggingface.co/adityapatil205
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: im game dev enthusiast and i have actually made some projects but couldnt build better as i had hardware limitations 
 -->
