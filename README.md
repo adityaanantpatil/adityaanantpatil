@@ -2,8 +2,8 @@
 
 Welcome to my corner of GitHub!
 
-👨‍💻 About Me
-🔭 I’m currently working on an Autonomous Vehicle for the BAJA SAE competition. My focus is on developing advanced driver-assistance systems (ADAS) including:
+ About Me
+I’m currently working on an Autonomous Vehicle for the BAJA SAE competition. My focus is on developing advanced driver-assistance systems (ADAS) including:
 LKA (Lane Keep Assist)
 ACC (Adaptive Cruise Control)
 AEB (Autonomous Emergency Braking)
@@ -14,13 +14,13 @@ TLSD (Traffic Light & Sign Detection)
  I’m looking for help and guidance with advanced concepts in Agentic AI. I'm always open to learning from experienced developers in the field.
  Ask me about C++, Python, object-oriented programming, and developing algorithms for vehicle control systems.
 
-🛠️ Tech Stack & Skills
+ Tech Stack & Skills
 Languages: C++, Python
 Libraries & Frameworks: OpenCV, TensorFlow, PyTorch, ROS (Robot Operating System)
 Areas of Interest: Autonomous Vehicles, Robotics, Machine Learning, Computer Vision, Agentic AI
 Tools: Git, GitHub, VS Code
 
-## 🛠️ Tech Stack & Tools
+##  Tech Stack & Tools
 
 ### Languages
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
