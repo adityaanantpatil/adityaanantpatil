@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 
 
 Welcome to my corner of GitHub!
 
@@ -9,10 +9,10 @@ ACC (Adaptive Cruise Control)
 AEB (Autonomous Emergency Braking)
 TLSD (Traffic Light & Sign Detection)
 
-🌱 I’m currently diving deep into Machine Learning, exploring techniques like NLP, Agentic AI, and Supervised Learning to build smarter systems.
-👯 I’m looking to collaborate on innovative Agentic AI projects. If you're building intelligent agents, let's connect!
-🤔 I’m looking for help and guidance with advanced concepts in Agentic AI. I'm always open to learning from experienced developers in the field.
-💬 Ask me about C++, Python, object-oriented programming, and developing algorithms for vehicle control systems.
+ I’m currently diving deep into Machine Learning, exploring techniques like NLP, Agentic AI, and Supervised Learning to build smarter systems.
+ I’m looking to collaborate on innovative Agentic AI projects. If you're building intelligent agents, let's connect!
+ I’m looking for help and guidance with advanced concepts in Agentic AI. I'm always open to learning from experienced developers in the field.
+ Ask me about C++, Python, object-oriented programming, and developing algorithms for vehicle control systems.
 
 🛠️ Tech Stack & Skills
 Languages: C++, Python
@@ -50,17 +50,17 @@ Tools: Git, GitHub, VS Code
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ### Areas of Expertise
-- 🚗 **Autonomous Vehicles & ADAS** (Lane Keep Assist, Adaptive Cruise Control, Emergency Braking)
-- 🤖 **Robotics & Control Systems**
-- 🧠 **Machine Learning** (NLP, Supervised Learning, Agentic AI)
-- 👁️ **Computer Vision** (Object Detection, Traffic Sign Recognition)
-- 🔌 **Embedded Systems** (Microcontroller programming, Sensor integration)
-- 🎮 **Game Development** (Hobbyist projects)
+-  **Autonomous Vehicles & ADAS** (Lane Keep Assist, Adaptive Cruise Control, Emergency Braking)
+-  **Robotics & Control Systems**
+-  **Machine Learning** (NLP, Supervised Learning, Agentic AI)
+-  **Computer Vision** (Object Detection, Traffic Sign Recognition)
+-  **Embedded Systems** (Microcontroller programming, Sensor integration)
+-  **Game Development** (Hobbyist projects)
 
-- 📫 How to reach me: @adityapatil205 at instagram and adityaanantpatil at linkedin (www.linkedin.com/in/adityanantpatil)
+- How to reach me: @adityapatil205 at instagram and adityaanantpatil at linkedin (www.linkedin.com/in/adityanantpatil)
 - Hugging face : https://huggingface.co/adityapatil205
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: im game dev enthusiast and i have actually made some projects but couldnt build better as i had hardware limitations 
+- Pronouns: He/Him
+- Fun fact: im game dev enthusiast and i have actually made some projects but couldnt build better as i had hardware limitations 
 -->
 
 
